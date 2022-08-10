@@ -1,5 +1,5 @@
-# PHP-modulzáró-vizgsa---webshop
+# PHP-module-exam---Webshop
 
-Szoftverfejlesztő OKJ PHP modulzáró vizsgám
+Software Developer Course PHP Module Final Exam
 
-Feladat: webshop létrehozása, adatbázissal, admin oldallal, kereséssel és bejelentkezéssel.
+Task: Creating a webshop with database, admin page, search and login.
